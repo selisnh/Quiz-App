@@ -36,7 +36,7 @@ function App() {
             name={name}
             questions={questions}
             score={score}
-            setName={setScore}
+            setScore={setScore}
             setQuestions={setQuestions}
             />
         </Route>
