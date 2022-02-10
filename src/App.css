@@ -1,12 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Rowdies&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;800&family=Lato:wght@900&family=Oswald:wght@500&family=Rowdies:wght@300;400&display=swap');
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   scrollbar-width: thin; /* Firefox */
-  font-family: "Rowdies", cursive;
+  font-family: 'Lato', sans-serif;
 }
 
 *::-webkit-scrollbar {
